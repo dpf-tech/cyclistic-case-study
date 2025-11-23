@@ -2,10 +2,12 @@ title: "Data Analytics Portfolio"
 description: "Cyclistic bike-share case study and other analytics projects."
 theme: minima
 
-# Optional – your GitHub username and repo (used by the minima theme)
 author:
   name: "dpf-tech"
 
-# So links work correctly on GitHub Pages
 baseurl: "/cyclistic-case-study"
 url: "https://dpf-tech.github.io"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
