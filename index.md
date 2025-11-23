@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: "Cyclistic Bike-Share Case Study"
 ---
 
