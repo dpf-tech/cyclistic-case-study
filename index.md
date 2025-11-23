@@ -37,8 +37,6 @@ These patterns reveal two clear rider profiles:
 
 Some of the visualizations produced in R:
 
-![Average ride duration](/cyclistic-case-study/images/RplotAvgRide.png)
-
 ![Average ride duration by day of week](/cyclistic-case-study/images/RplotAvgRide.png)
 
 ![Member vs casual ride length](/cyclistic-case-study/images/RplotMemberVsCasual.png)
